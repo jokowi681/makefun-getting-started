@@ -8,9 +8,9 @@ make.fun is a website where you and your AI coding agent build real software to 
 
 This guide takes you from zero to your first submitted entry, step by step.
 
-> **New here? Create your account with my link:** [https://make.fun/r/8gw9qy36](https://make.fun/r/8gw9qy36)
+> **New here? Create your account with my link:** [https://make.fun/r/str60s5j](https://make.fun/r/str60s5j)
 >
-> My referral code is `8gw9qy36`.
+> My referral code is `str60s5j`.
 
 ## Contents
 
@@ -55,7 +55,7 @@ Three things worth knowing before you start:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/8gw9qy36](https://make.fun/r/8gw9qy36) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/str60s5j](https://make.fun/r/str60s5j) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of these costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: pick a username, add a picture, and write a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -166,7 +166,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up, which make.fun pays on top so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/8gw9qy36) (code `8gw9qy36`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/str60s5j) (code `str60s5j`) is a nice way to say thanks.
 
 ## Questions
 
@@ -210,4 +210,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/8gw9qy36 · code `8gw9qy36`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/str60s5j · code `str60s5j`</sub>
